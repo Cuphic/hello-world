@@ -1,0 +1,46 @@
+$
+$ Start pose (position and orientation) and map 
+$
+$ Start pose: x, y, orientation
+$ Coordinate systen starts with 0, 0 in lower left corner
+$
+$   Orientation (right hand coordinate system): 
+$   0 in positive x (east)
+$   1 in positive y (north)
+$   2 in negative x (west)
+$   3 in negative y (south)
+$ 
+$ Now the actual start pose:
+$
+
+$$$
+
+  22            2                   1  
+$ 
+
+
+
+$ Now follows the map (consists of only X or .)
+$
+
+
+
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X.X................XXXX.................
+X.X......X.........XX....XXXXXXXXXXXX..X
+X.X......XXXXXXXXXXXX....X..........X..X
+X.X................XX....X..XXXXX...X..X
+X.X..XXXXXXXXXXX...XX....X......X...X..X
+X.X............X...XX....XXXXXXXX...X..X
+X.XXXXXXXXXXXXXX....................X..X
+X..................XXXXXXXXXXXXXXXXXX..X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+$
+
+
+
